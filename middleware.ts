@@ -2,5 +2,5 @@
 export { default } from "next-auth/middleware";
 
 export const config = {
-  matcher: ["/dashboard/:path*", "/profile/:path*"], // dashboard ve profile kismini erisim engeli ekledim!
+  matcher: ["/dashboard/:path*", "/profile/:path*"], // dashboard kismina erisim engeli ekledim!
 };
