@@ -37,9 +37,10 @@ Otomatik Oturum Yönetimi: NextAuth.js, Auth0'dan gelen JWT token'ını otomatik
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-03 133521" src="https://github.com/user-attachments/assets/6c124f74-09a3-4fb9-8fea-066e06576f2f" />
 
+<img width="1920" height="1080" alt="Screenshot 2025-08-03 133555" src="https://github.com/user-attachments/assets/214f5d7a-81f9-4879-bb0f-85062d7fd6eb" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-08-03 134253" src="https://github.com/user-attachments/assets/d8bbc0b5-8f24-4822-875f-bcd1c6c31776" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-03 133555" src="https://github.com/user-attachments/assets/214f5d7a-81f9-4879-bb0f-85062d7fd6eb" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-03 133605" src="https://github.com/user-attachments/assets/57c33966-c44a-4549-a8be-004de0953cd6" />
 
