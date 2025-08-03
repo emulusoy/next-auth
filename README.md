@@ -32,6 +32,8 @@ Otomatik Oturum Yönetimi: NextAuth.js, Auth0'dan gelen JWT token'ını otomatik
 
 Çevre Değişkeni Yönetimi: .env.local dosyası ile hassas bilgilerin (Client ID, Client Secret, Secret) koddan izole edilmesi sağlanmıştır.
 
+<img width="1874" height="992" alt="Auth0" src="https://github.com/user-attachments/assets/923e98dd-cdb8-44b6-869f-68599ffc7e3d" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-08-03 133534" src="https://github.com/user-attachments/assets/af437922-a456-4f37-8121-e695ddab934b" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-03 133521" src="https://github.com/user-attachments/assets/6c124f74-09a3-4fb9-8fea-066e06576f2f" />
